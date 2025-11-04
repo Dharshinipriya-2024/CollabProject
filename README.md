@@ -1,2 +1,0 @@
-# CollabProject
-Demo collaboration repo
